@@ -1,0 +1,15 @@
+var x := 917384;
+var a := 0;
+var b := (x + 1);
+var m := 0;
+while ((a + 1) != b) {
+  m := ((a + b) / 2);
+  if (x >= (m * m)) {
+    a := m
+  }
+  else {
+    b := m
+  }
+};
+var veri1 := (a * a);
+var veri2 := (b * b)
