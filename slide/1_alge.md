@@ -21,10 +21,10 @@ A:Mac合宿 2022/2/19-20
 
 GitHubの以下のリポジトリからダウンロードできる。
 
-https://github.com/elkel53930/amac2022
+https://github.com/elkel53930/amac2022_general_session
 
 ```
-> git clone https://github.com/elkel53930/amac2022.git
+> git clone git@github.com:elkel53930/amac2022_general_session.git
 ```
 
 今日限定でpublicにしておくので、ダウンロードしたい方は今日中に。
